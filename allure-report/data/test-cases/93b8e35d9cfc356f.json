@@ -1,0 +1,55 @@
+{
+  "uid" : "93b8e35d9cfc356f",
+  "name" : "test_list_member_address",
+  "fullName" : "case.test_list_member_address#test_list_member_address",
+  "historyId" : "67bc5fd9fae19ef11b99be8baaaaa0f0",
+  "time" : {
+    "start" : 1615079444064,
+    "stop" : 1615079444427,
+    "duration" : 363
+  },
+  "description" : "\n    没添加地址时,查询收货地址\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>没添加地址时,查询收货地址\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_list_member_address"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_list_member_address"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93b8e35d9cfc356f.json",
+  "parameterValues" : [ ]
+}

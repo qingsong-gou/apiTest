@@ -1,0 +1,55 @@
+{
+  "uid" : "ebdbad8a4212aaf8",
+  "name" : "test_clear_cart",
+  "fullName" : "case.test_cart#test_clear_cart",
+  "historyId" : "2728523db74c5a4997c424a9a3ca52de",
+  "time" : {
+    "start" : 1615079434469,
+    "stop" : 1615079435078,
+    "duration" : 609
+  },
+  "description" : "\n    清空购物车\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>清空购物车\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_cart"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebdbad8a4212aaf8.json",
+  "parameterValues" : [ ]
+}

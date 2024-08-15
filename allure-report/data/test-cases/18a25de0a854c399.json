@@ -1,0 +1,55 @@
+{
+  "uid" : "18a25de0a854c399",
+  "name" : "test_add_cart_1",
+  "fullName" : "case.test_cart#test_add_cart_1",
+  "historyId" : "ce2c16f191024a9d7e07439299cc7e02",
+  "time" : {
+    "start" : 1615079430924,
+    "stop" : 1615079432087,
+    "duration" : 1163
+  },
+  "description" : "\n    验证添加数据库合理数据,添加成功,数据库有数据(添加了两条数据,方便后面清空购物车验证)\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>验证添加数据库合理数据,添加成功,数据库有数据(添加了两条数据,方便后面清空购物车验证)\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_cart"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18a25de0a854c399.json",
+  "parameterValues" : [ ]
+}

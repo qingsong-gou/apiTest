@@ -1,0 +1,55 @@
+{
+  "uid" : "bd0ed2a12395afdb",
+  "name" : "test_delete_cart_1",
+  "fullName" : "case.test_delete_cart#test_delete_cart_1",
+  "historyId" : "809f1ae5b63d32af17b60d62d01bf0f2",
+  "time" : {
+    "start" : 1615079435083,
+    "stop" : 1615079435435,
+    "duration" : 352
+  },
+  "description" : "\n    删除不存在商品id\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>删除不存在商品id\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_delete_cart"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_delete_cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd0ed2a12395afdb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "255bbbd41b92e83c",
+  "name" : "test_update_member_address_2",
+  "fullName" : "case.test_update_member_address#test_update_member_address_2",
+  "historyId" : "22442fd2fde2238f34cab3b278bfe721",
+  "time" : {
+    "start" : 1615079571589,
+    "stop" : 1615079571966,
+    "duration" : 377
+  },
+  "description" : "\n    修改别人的收货地址信息 id=27\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>修改别人的收货地址信息 id=27\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_update_member_address"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_update_member_address"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "255bbbd41b92e83c.json",
+  "parameterValues" : [ ]
+}

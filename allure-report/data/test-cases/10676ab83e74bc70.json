@@ -1,0 +1,55 @@
+{
+  "uid" : "10676ab83e74bc70",
+  "name" : "test_member_address",
+  "fullName" : "case.test_indent#test_member_address",
+  "historyId" : "5240c08dbe6e53bb7f3b5e1443c3a540",
+  "time" : {
+    "start" : 1615079440935,
+    "stop" : 1615079441834,
+    "duration" : 899
+  },
+  "description" : "\n    根据id查看收货信息\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>根据id查看收货信息\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_indent"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_indent"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10676ab83e74bc70.json",
+  "parameterValues" : [ ]
+}

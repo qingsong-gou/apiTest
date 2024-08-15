@@ -1,0 +1,15 @@
+{
+  "total" : 43,
+  "items" : [ {
+    "uid" : "b5491827406d4a6ba8c093af0c7b073f",
+    "name" : "购物流程",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

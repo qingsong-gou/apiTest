@@ -1,0 +1,55 @@
+{
+  "uid" : "b995cce9a743b11d",
+  "name" : "test_list_cart_1",
+  "fullName" : "case.test_cart#test_list_cart_1",
+  "historyId" : "323ad4fa9b3a45f8745b3115d9917731",
+  "time" : {
+    "start" : 1615079432092,
+    "stop" : 1615079432701,
+    "duration" : 609
+  },
+  "description" : "\n    查询添加的购物车的productId\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>查询添加的购物车的productId\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_cart"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b995cce9a743b11d.json",
+  "parameterValues" : [ ]
+}

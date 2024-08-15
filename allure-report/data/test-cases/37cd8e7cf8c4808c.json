@@ -1,0 +1,70 @@
+{
+  "uid" : "37cd8e7cf8c4808c",
+  "name" : "购买满减商品",
+  "fullName" : "case.test_order#test_order2",
+  "historyId" : "1472aad75dd753155c7ef512616fd70d",
+  "time" : {
+    "start" : 1615079477112,
+    "stop" : 1615079477111,
+    "duration" : -1
+  },
+  "description" : "购买满减商品",
+  "descriptionHtml" : "<p>购买满减商品</p>\n",
+  "status" : "failed",
+  "statusMessage" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\ncase\\test_order.py:200: AssumptionFailure\n>>\tpytest.assume(reduce_price == promotionAmount)  # 断言满减金额是否正确\nAssertionError: assert False\n\ncase\\test_order.py:203: AssumptionFailure\n>>\tpytest.assume(pay_price == payAmount)  # 断言支付金额是否正确\nAssertionError: assert False",
+  "statusTrace" : "tp = <class 'pytest_assume.plugin.FailedAssumption'>, value = None, tb = None\n\n    def reraise(tp, value, tb=None):\n        try:\n            if value is None:\n                value = tp()\n            if value.__traceback__ is not tb:\n>               raise value.with_traceback(tb)\nE               pytest_assume.plugin.FailedAssumption: \nE               2 Failed Assumptions:\nE               \nE               case\\test_order.py:200: AssumptionFailure\nE               >>\tpytest.assume(reduce_price == promotionAmount)  # 断言满减金额是否正确\nE               AssertionError: assert False\nE               \nE               case\\test_order.py:203: AssumptionFailure\nE               >>\tpytest.assume(pay_price == payAmount)  # 断言支付金额是否正确\nE               AssertionError: assert False\n\nd:\\python\\lib\\site-packages\\six.py:702: FailedAssumption",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "购物促销活动商品"
+  }, {
+    "name" : "feature",
+    "value" : "购物流程"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "quantitys",
+    "value" : "3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "37cd8e7cf8c4808c.json",
+  "parameterValues" : [ "3" ]
+}

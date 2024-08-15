@@ -1,0 +1,61 @@
+{
+  "uid" : "2ab4df6cde913cc",
+  "name" : "test_add_cart_2",
+  "fullName" : "case.test_add_cart#test_add_cart_2",
+  "historyId" : "8e4b7b4bfd6ba51d4f21730e1d30a7f0",
+  "time" : {
+    "start" : 1615079418921,
+    "stop" : 1615079418920,
+    "duration" : -1
+  },
+  "description" : "\n    添加商品数量为负数\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>添加商品数量为负数\n:return:\n</code></pre>\n",
+  "status" : "failed",
+  "statusMessage" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_cart.py:56: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+  "statusTrace" : "tp = <class 'pytest_assume.plugin.FailedAssumption'>, value = None, tb = None\n\n    def reraise(tp, value, tb=None):\n        try:\n            if value is None:\n                value = tp()\n            if value.__traceback__ is not tb:\n>               raise value.with_traceback(tb)\nE               pytest_assume.plugin.FailedAssumption: \nE               1 Failed Assumptions:\nE               \nE               case\\test_add_cart.py:56: AssumptionFailure\nE               >>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nE               AssertionError: 断言开发自检字段\nE               assert False\n\nd:\\python\\lib\\site-packages\\six.py:702: FailedAssumption",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_cart"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_add_cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2ab4df6cde913cc.json",
+  "parameterValues" : [ ]
+}

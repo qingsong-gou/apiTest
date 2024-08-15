@@ -1,0 +1,55 @@
+{
+  "uid" : "22212597dc2ab9ee",
+  "name" : "test_update_member_address_4",
+  "fullName" : "case.test_update_member_address#test_update_member_address_4",
+  "historyId" : "5e47737936edce3330e7cf17585a38a3",
+  "time" : {
+    "start" : 1615079573625,
+    "stop" : 1615079575398,
+    "duration" : 1773
+  },
+  "description" : "\n    修改收货地址信息,添加name\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>修改收货地址信息,添加name\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_update_member_address"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_update_member_address"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22212597dc2ab9ee.json",
+  "parameterValues" : [ ]
+}

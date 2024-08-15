@@ -1,0 +1,55 @@
+{
+  "uid" : "e1a6e84cb9cf4444",
+  "name" : "test_add_member_address_1",
+  "fullName" : "case.test_add_member_address#test_add_member_address_1",
+  "historyId" : "4792e10f50aef54b02a30939797f434d",
+  "time" : {
+    "start" : 1615079422676,
+    "stop" : 1615079423982,
+    "duration" : 1306
+  },
+  "description" : "\n    添加地址,不填名字\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>添加地址,不填名字\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_member_address"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_add_member_address"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1a6e84cb9cf4444.json",
+  "parameterValues" : [ ]
+}

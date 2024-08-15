@@ -1,0 +1,187 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Mar 07 09:13:00 CST 2021","Sun Mar 07 09:13:00 CST 2021","-1","case","test_update_member_address","","","","test_update_member_address_8","
+    修改收货地址信息member_id为其他10
+    :return:
+    "
+"failed","Sun Mar 07 09:12:50 CST 2021","Sun Mar 07 09:12:50 CST 2021","-1","case","test_update_member_address","","","","test_update_member_address_1","
+    修改收货地址信息region为空
+    :return:
+    "
+"passed","Sun Mar 07 09:11:47 CST 2021","Sun Mar 07 09:11:54 CST 2021","6690","case","test_order","","","","购买满减商品和折扣商品","'满减商品和折扣商品"
+"passed","Sun Mar 07 09:11:11 CST 2021","Sun Mar 07 09:11:17 CST 2021","5458","case","test_order","","","","购买满减商品","购买满减商品"
+"passed","Sun Mar 07 09:12:51 CST 2021","Sun Mar 07 09:12:51 CST 2021","377","case","test_update_member_address","","","","test_update_member_address_2","
+    修改别人的收货地址信息 id=27
+    :return:
+    "
+"passed","Sun Mar 07 09:10:35 CST 2021","Sun Mar 07 09:10:35 CST 2021","362","case","test_delete_cart","","","","test_delete_cart_2","
+    删除别人的商品id
+    :return:
+    "
+"passed","Sun Mar 07 09:12:03 CST 2021","Sun Mar 07 09:12:11 CST 2021","8217","case","test_order","","","","购买满减商品,折扣商品,普通商品","'满减商品和折扣商品"
+"passed","Sun Mar 07 09:10:42 CST 2021","Sun Mar 07 09:10:43 CST 2021","935","case","test_indent","","","","test_delete_member_address","
+    根据ums_member_receive_address表中的id删除收货地址
+    :return:
+    "
+"passed","Sun Mar 07 09:10:26 CST 2021","Sun Mar 07 09:10:27 CST 2021","1108","case","test_add_member_address","","","","test_add_member_address_3","
+    添加地址,不填邮编
+    :return:
+    "
+"failed","Sun Mar 07 09:10:29 CST 2021","Sun Mar 07 09:10:29 CST 2021","-1","case","test_add_member_address","","","","test_add_member_address_7","
+    添加地址,号码不正确的
+    :return:
+    "
+"passed","Sun Mar 07 09:10:40 CST 2021","Sun Mar 07 09:10:41 CST 2021","899","case","test_indent","","","","test_member_address","
+    根据id查看收货信息
+    :return:
+    "
+"failed","Sun Mar 07 09:10:19 CST 2021","Sun Mar 07 09:10:19 CST 2021","-1","case","test_add_cart","","","","test_add_cart_3","
+    添加商品数量为0
+    :return:
+    "
+"passed","Sun Mar 07 09:11:54 CST 2021","Sun Mar 07 09:12:03 CST 2021","8549","case","test_order","","","","购买满减商品,折扣商品,普通商品","'满减商品和折扣商品"
+"failed","Sun Mar 07 09:10:20 CST 2021","Sun Mar 07 09:10:20 CST 2021","-1","case","test_add_cart","","","","test_add_cart_4","
+    添加商品数量超过库存
+    :return:
+    "
+"passed","Sun Mar 07 09:11:22 CST 2021","Sun Mar 07 09:11:27 CST 2021","5131","case","test_order","","","","购买普通商品","普通商品"
+"passed","Sun Mar 07 09:10:33 CST 2021","Sun Mar 07 09:10:34 CST 2021","777","case","test_cart","","","","test_delete_cart","
+    删除商品
+    :return:
+    "
+"passed","Sun Mar 07 09:10:30 CST 2021","Sun Mar 07 09:10:32 CST 2021","1163","case","test_cart","","","","test_add_cart_1","
+    验证添加数据库合理数据,添加成功,数据库有数据(添加了两条数据,方便后面清空购物车验证)
+    :return:
+    "
+"passed","Sun Mar 07 09:12:20 CST 2021","Sun Mar 07 09:12:28 CST 2021","8580","case","test_order","","","","购买满减商品,折扣商品,普通商品","'满减商品和折扣商品"
+"passed","Sun Mar 07 09:10:32 CST 2021","Sun Mar 07 09:10:32 CST 2021","609","case","test_cart","","","","test_list_cart_1","
+    查询添加的购物车的productId
+    :return:
+    "
+"failed","Sun Mar 07 09:10:27 CST 2021","Sun Mar 07 09:10:27 CST 2021","0","case","test_add_member_address","","","","test_add_member_address_4","
+    添加地址,不填city,province,region中的region
+    :return:
+    "
+"passed","Sun Mar 07 09:10:39 CST 2021","Sun Mar 07 09:10:39 CST 2021","352","case","test_delete_member_address","","","","test_delete_member_address","
+    删除别人的收获地址id=100
+    :return:
+    "
+"passed","Sun Mar 07 09:11:40 CST 2021","Sun Mar 07 09:11:47 CST 2021","6897","case","test_order","","","","购买满减商品和折扣商品","'满减商品和折扣商品"
+"passed","Sun Mar 07 09:12:53 CST 2021","Sun Mar 07 09:12:55 CST 2021","1773","case","test_update_member_address","","","","test_update_member_address_4","
+    修改收货地址信息,添加name
+    :return:
+    "
+"failed","Sun Mar 07 09:10:28 CST 2021","Sun Mar 07 09:10:28 CST 2021","-1","case","test_add_member_address","","","","test_add_member_address_5","
+    添加地址,填city,province,region中的region实际不存在的
+    :return:
+    "
+"failed","Sun Mar 07 09:10:29 CST 2021","Sun Mar 07 09:10:29 CST 2021","-1","case","test_add_member_address","","","","test_add_member_address_6","
+    添加地址,不填 detailAddress
+    :return:
+    "
+"failed","Sun Mar 07 09:10:35 CST 2021","Sun Mar 07 09:10:35 CST 2021","-1","case","test_delete_cart","","","","test_delete_cart_3","
+    购物车多次删除同一件商品
+    :return:
+    "
+"failed","Sun Mar 07 09:12:11 CST 2021","Sun Mar 07 09:12:11 CST 2021","-1","case","test_order","","","","购买满减商品,折扣商品,普通商品","'满减商品和折扣商品"
+"failed","Sun Mar 07 09:10:44 CST 2021","Sun Mar 07 09:10:44 CST 2021","-2","case","test_order","","","","购买折扣商品","购买折扣商品"
+"failed","Sun Mar 07 09:12:55 CST 2021","Sun Mar 07 09:12:55 CST 2021","0","case","test_update_member_address","","","","test_update_member_address_5","
+    修改收货地址信息phone_number为不正确号码
+    :return:
+    "
+"passed","Sun Mar 07 09:11:06 CST 2021","Sun Mar 07 09:11:11 CST 2021","5267","case","test_order","","","","购买满减商品","购买满减商品"
+"failed","Sun Mar 07 09:10:21 CST 2021","Sun Mar 07 09:10:21 CST 2021","-1","case","test_add_cart","","","","test_add_cart_5","
+    添加商品数量productSkuId与商品属性不一致
+    :return:
+    "
+"failed","Sun Mar 07 09:10:44 CST 2021","Sun Mar 07 09:10:44 CST 2021","-2","case","test_member_address","","","","test_member_address_1","
+    查询别人的地址id=11
+    :return:
+    "
+"failed","Sun Mar 07 09:12:45 CST 2021","Sun Mar 07 09:12:45 CST 2021","-1","case","test_update_cart_quantity","","","","test_update_cart_quantity_1","
+    修改商品数量为负数
+    :return:
+    "
+"passed","Sun Mar 07 09:10:41 CST 2021","Sun Mar 07 09:10:42 CST 2021","884","case","test_indent","","","","test_update_member_address","
+    修改收货地址信息
+    :return:
+    "
+"failed","Sun Mar 07 09:12:51 CST 2021","Sun Mar 07 09:12:51 CST 2021","-1","case","test_update_member_address","","","","test_update_member_address_3","
+    修改收货地址信息detail_address为空
+    :return:
+    "
+"failed","Sun Mar 07 09:12:48 CST 2021","Sun Mar 07 09:12:48 CST 2021","-1","case","test_update_cart_quantity","","","","test_update_cart_quantity_3","
+    修改商品数量超过库存数量
+    :return:
+    "
+"failed","Sun Mar 07 09:12:58 CST 2021","Sun Mar 07 09:12:58 CST 2021","-1","case","test_update_member_address","","","","test_update_member_address_7","
+    修改收货地址信息default_status为10
+    :return:
+    "
+"passed","Sun Mar 07 09:12:28 CST 2021","Sun Mar 07 09:12:37 CST 2021","8400","case","test_order","","","","购买满减商品,折扣商品,普通商品","'满减商品和折扣商品"
+"failed","Sun Mar 07 09:10:43 CST 2021","Sun Mar 07 09:10:43 CST 2021","-1","case","test_list_cart","","","","test_list_cart_1","
+    没有商品时,查询
+    :return:
+    "
+"failed","Sun Mar 07 09:12:47 CST 2021","Sun Mar 07 09:12:47 CST 2021","-1","case","test_update_cart_quantity","","","","test_update_cart_quantity_2","
+    修改商品数量为0
+    :return:
+    "
+"passed","Sun Mar 07 09:10:44 CST 2021","Sun Mar 07 09:10:44 CST 2021","363","case","test_list_member_address","","","","test_list_member_address","
+    没添加地址时,查询收货地址
+    :return:
+    "
+"failed","Sun Mar 07 09:11:17 CST 2021","Sun Mar 07 09:11:17 CST 2021","-1","case","test_order","","","","购买满减商品","购买满减商品"
+"passed","Sun Mar 07 09:10:37 CST 2021","Sun Mar 07 09:10:39 CST 2021","1959","case","test_delete_cart","","","","test_delete_cart_4","
+    删除多件商品
+    :return:
+    "
+"passed","Sun Mar 07 09:11:27 CST 2021","Sun Mar 07 09:11:34 CST 2021","6642","case","test_order","","","","购买普通商品和满减商品","普通商品和满减商品"
+"passed","Sun Mar 07 09:11:01 CST 2021","Sun Mar 07 09:11:06 CST 2021","5367","case","test_order","","","","购买折扣商品","购买折扣商品"
+"passed","Sun Mar 07 09:10:35 CST 2021","Sun Mar 07 09:10:35 CST 2021","352","case","test_delete_cart","","","","test_delete_cart_1","
+    删除不存在商品id
+    :return:
+    "
+"passed","Sun Mar 07 09:10:39 CST 2021","Sun Mar 07 09:10:40 CST 2021","876","case","test_indent","","","","test_add_member_address","
+    添加收货地址
+    :return:
+    "
+"failed","Sun Mar 07 09:10:18 CST 2021","Sun Mar 07 09:10:18 CST 2021","-1","case","test_add_cart","","","","test_add_cart_2","
+    添加商品数量为负数
+    :return:
+    "
+"passed","Sun Mar 07 09:10:40 CST 2021","Sun Mar 07 09:10:40 CST 2021","534","case","test_indent","","","","test_list_member_address","
+    查询所有收货地址
+    :return:
+    "
+"passed","Sun Mar 07 09:10:32 CST 2021","Sun Mar 07 09:10:33 CST 2021","975","case","test_cart","","","","test_update_cart_quantity","
+    修改商品数量
+    :return:
+    "
+"passed","Sun Mar 07 09:12:37 CST 2021","Sun Mar 07 09:12:45 CST 2021","8344","case","test_order","","","","购买满减商品,折扣商品,普通商品","'满减商品和折扣商品"
+"passed","Sun Mar 07 09:11:34 CST 2021","Sun Mar 07 09:11:40 CST 2021","6751","case","test_order","","","","购买普通商品和折扣商品","普通商品和折扣商品"
+"passed","Sun Mar 07 09:10:50 CST 2021","Sun Mar 07 09:10:55 CST 2021","5420","case","test_order","","","","购买折扣商品","购买折扣商品"
+"failed","Sun Mar 07 09:10:25 CST 2021","Sun Mar 07 09:10:25 CST 2021","0","case","test_add_member_address","","","","test_add_member_address_2","
+    添加地址,不填电话
+    :return:
+    "
+"failed","Sun Mar 07 09:10:18 CST 2021","Sun Mar 07 09:10:18 CST 2021","-4","case","test_add_cart","","","","test_add_cart_1","
+    添加商品价格为负数
+    :return:
+    "
+"failed","Sun Mar 07 09:10:23 CST 2021","Sun Mar 07 09:10:23 CST 2021","-1","case","test_add_member_address","","","","test_add_member_address_8","
+    添加地址,名字存在不和谐词
+    :return:
+    "
+"failed","Sun Mar 07 09:12:56 CST 2021","Sun Mar 07 09:12:56 CST 2021","-1","case","test_update_member_address","","","","test_update_member_address_6","
+    修改收货地址信息post_code为不正确
+    :return:
+    "
+"passed","Sun Mar 07 09:10:55 CST 2021","Sun Mar 07 09:11:00 CST 2021","5264","case","test_order","","","","购买折扣商品","购买折扣商品"
+"passed","Sun Mar 07 09:10:22 CST 2021","Sun Mar 07 09:10:23 CST 2021","1306","case","test_add_member_address","","","","test_add_member_address_1","
+    添加地址,不填名字
+    :return:
+    "
+"passed","Sun Mar 07 09:10:34 CST 2021","Sun Mar 07 09:10:35 CST 2021","609","case","test_cart","","","","test_clear_cart","
+    清空购物车
+    :return:
+    "

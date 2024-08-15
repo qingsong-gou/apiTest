@@ -1,0 +1,55 @@
+{
+  "uid" : "114acbe21563fc2",
+  "name" : "test_delete_member_address",
+  "fullName" : "case.test_indent#test_delete_member_address",
+  "historyId" : "86e174bf78a31775bf69cea2e8b8c400",
+  "time" : {
+    "start" : 1615079442726,
+    "stop" : 1615079443661,
+    "duration" : 935
+  },
+  "description" : "\n    根据ums_member_receive_address表中的id删除收货地址\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>根据ums_member_receive_address表中的id删除收货地址\n:return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_indent"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_indent"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "114acbe21563fc2.json",
+  "parameterValues" : [ ]
+}

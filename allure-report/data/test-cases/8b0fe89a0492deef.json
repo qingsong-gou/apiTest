@@ -1,0 +1,67 @@
+{
+  "uid" : "8b0fe89a0492deef",
+  "name" : "购买满减商品和折扣商品",
+  "fullName" : "case.test_order#test_test_order6",
+  "historyId" : "3bf54fe48a1d38f96fc66dd6f28f49cf",
+  "time" : {
+    "start" : 1615079500973,
+    "stop" : 1615079507870,
+    "duration" : 6897
+  },
+  "description" : "'满减商品和折扣商品",
+  "descriptionHtml" : "<p>'满减商品和折扣商品</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "购物促销活动商品"
+  }, {
+    "name" : "feature",
+    "value" : "购物流程"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "quantity_1",
+    "value" : "1"
+  }, {
+    "name" : "quantity_2",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b0fe89a0492deef.json",
+  "parameterValues" : [ "1", "1" ]
+}

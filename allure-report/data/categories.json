@@ -1,0 +1,451 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_cart.py:28: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_cart_1",
+        "uid" : "494e075a55d9c2be",
+        "parentUid" : "fd6a5500fecd04224a4cd50309bfc23f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079418005,
+          "stop" : 1615079418001,
+          "duration" : -4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd6a5500fecd04224a4cd50309bfc23f"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_cart.py:56: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_cart_2",
+        "uid" : "2ab4df6cde913cc",
+        "parentUid" : "9e5fa3c2b5c79e5d90a14f8cb58a7206",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079418921,
+          "stop" : 1615079418920,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e5fa3c2b5c79e5d90a14f8cb58a7206"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_cart.py:84: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_cart_3",
+        "uid" : "b5fa460ce8e8eff0",
+        "parentUid" : "73b56094aa848c506e12d3f8d04fcebc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079419774,
+          "stop" : 1615079419773,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73b56094aa848c506e12d3f8d04fcebc"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_cart.py:112: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_cart_4",
+        "uid" : "cc203f77597eacf3",
+        "parentUid" : "89cd42abc6b55930e2ee6cbef7090506",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079420609,
+          "stop" : 1615079420608,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "89cd42abc6b55930e2ee6cbef7090506"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_cart.py:140: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_cart_5",
+        "uid" : "af5d2cb46ad9f64e",
+        "parentUid" : "9c90449e083f8b24ee855bc13b70647c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079421572,
+          "stop" : 1615079421571,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9c90449e083f8b24ee855bc13b70647c"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_member_address.py:61: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_member_address_8",
+        "uid" : "42cb6c81222e9288",
+        "parentUid" : "55a5fec2cd309445832f6f4e23c13163",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079423986,
+          "stop" : 1615079423985,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "55a5fec2cd309445832f6f4e23c13163"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_member_address.py:90: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_member_address_2",
+        "uid" : "1589b2240732d9a0",
+        "parentUid" : "08ab87861156323161f90f0fcfaf6a8e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079425020,
+          "stop" : 1615079425020,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "08ab87861156323161f90f0fcfaf6a8e"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_member_address.py:152: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_member_address_4",
+        "uid" : "847b0163b4052df1",
+        "parentUid" : "821aeec6988d7cbc4374e3b77f8798c0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079427219,
+          "stop" : 1615079427219,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "821aeec6988d7cbc4374e3b77f8798c0"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_member_address.py:181: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_member_address_5",
+        "uid" : "ea656e65acdb4a01",
+        "parentUid" : "4f25f302ebc6a658ef2a9764ee7887fb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079428135,
+          "stop" : 1615079428134,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4f25f302ebc6a658ef2a9764ee7887fb"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_member_address.py:210: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_member_address_6",
+        "uid" : "1e5cfdb23ea32f97",
+        "parentUid" : "f2d02b7ac772de365937b8ca25cf8ce0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079429060,
+          "stop" : 1615079429059,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f2d02b7ac772de365937b8ca25cf8ce0"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_add_member_address.py:239: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_add_member_address_7",
+        "uid" : "656968fa2b082b65",
+        "parentUid" : "b4de27a0de72e4220e796892cfb038ba",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079429961,
+          "stop" : 1615079429960,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b4de27a0de72e4220e796892cfb038ba"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_delete_cart.py:57: AssumptionFailure\n>>\tpytest.assume(GetKeyword.get_keyword(result, \"message\") != \"操作成功\", \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_delete_cart_3",
+        "uid" : "bf8c24ec71ca462b",
+        "parentUid" : "eaf7aacbb6f516ed270eb19a2f248fb3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079435805,
+          "stop" : 1615079435804,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eaf7aacbb6f516ed270eb19a2f248fb3"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_list_cart.py:13: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"data\"] == [], \"购物车没添加商品时,能够查处商品\")\nAssertionError: 购物车没添加商品时,能够查处商品\nassert False",
+      "children" : [ {
+        "name" : "test_list_cart_1",
+        "uid" : "19c9142f47b4f14d",
+        "parentUid" : "10831591900a9717470074b7db6f2c67",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079443666,
+          "stop" : 1615079443665,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "10831591900a9717470074b7db6f2c67"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_member_address.py:12: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_member_address_1",
+        "uid" : "9df85207b3a78d21",
+        "parentUid" : "06abe28793f4154b80443c7471ef2fa3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079444433,
+          "stop" : 1615079444431,
+          "duration" : -2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "06abe28793f4154b80443c7471ef2fa3"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n5 Failed Assumptions:\n\ncase\\test_order.py:55: AssumptionFailure\n>>\tpytest.assume(cart_sql_result != None, \"数据库购物车表中没有添加的数据\")\nAssertionError: 数据库购物车表中没有添加的数据\nassert False\n\ncase\\test_order.py:71: AssumptionFailure\n>>\tpytest.assume(promotionAmount == promotionAmount_result, \"优惠金额不正确\")\nAssertionError: 优惠金额不正确\nassert False\n\ncase\\test_order.py:72: AssumptionFailure\n>>\tpytest.assume(payAmount == payAmount_result, \"支付金额不正确\")\nAssertionError: 支付金额不正确\nassert False\n\ncase\\test_order.py:101: AssumptionFailure\n>>\t\"数据库中购物车表该条记录没有变成delete_status=1\")\nAssertionError: 数据库中购物车表该条记录没有变成delete_status=1\nassert False\n\ncase\\test_order.py:128: AssumptionFailure\n>>\tpytest.assume(stock - quantitys == stock_0, '数据库该商品库存数量前后差值不等于购买商品的数量')\nAssertionError: 数据库该商品库存数量前后差值不等于购买商品的数量\nassert False",
+      "children" : [ {
+        "name" : "购买折扣商品",
+        "uid" : "a93f757543a238eb",
+        "parentUid" : "a7afe3a3a499dbc22efdb58c3b1ecad0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079444813,
+          "stop" : 1615079444811,
+          "duration" : -2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1" ]
+      } ],
+      "uid" : "a7afe3a3a499dbc22efdb58c3b1ecad0"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\ncase\\test_order.py:200: AssumptionFailure\n>>\tpytest.assume(reduce_price == promotionAmount)  # 断言满减金额是否正确\nAssertionError: assert False\n\ncase\\test_order.py:203: AssumptionFailure\n>>\tpytest.assume(pay_price == payAmount)  # 断言支付金额是否正确\nAssertionError: assert False",
+      "children" : [ {
+        "name" : "购买满减商品",
+        "uid" : "37cd8e7cf8c4808c",
+        "parentUid" : "5cd22377e6e1dab9b852674d376b846a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079477112,
+          "stop" : 1615079477111,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "3" ]
+      } ],
+      "uid" : "5cd22377e6e1dab9b852674d376b846a"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n2 Failed Assumptions:\n\ncase\\test_order.py:983: AssumptionFailure\n>>\tpytest.assume(reduce_price == promotionAmount)  # 断言优惠金额是否正确\nAssertionError: assert False\n\ncase\\test_order.py:985: AssumptionFailure\n>>\tpytest.assume(price == payAmount)  # 断言支付金额是否正确\nAssertionError: assert False",
+      "children" : [ {
+        "name" : "购买满减商品,折扣商品,普通商品",
+        "uid" : "b961c589bbc3e764",
+        "parentUid" : "97e6bec9b58fc41c3c9133670a9cba83",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079531367,
+          "stop" : 1615079531366,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "3", "1", "1" ]
+      } ],
+      "uid" : "97e6bec9b58fc41c3c9133670a9cba83"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_cart_quantity.py:32: AssumptionFailure\n>>\tpytest.assume(GetKeyword.get_keyword(result, \"message\") != \"操作成功\", \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_cart_quantity_1",
+        "uid" : "c13c92413c63eade",
+        "parentUid" : "7813528a1a4bec875413119e97d50b72",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079565599,
+          "stop" : 1615079565598,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7813528a1a4bec875413119e97d50b72"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_cart_quantity.py:63: AssumptionFailure\n>>\tpytest.assume(GetKeyword.get_keyword(result, \"message\") != \"操作成功\", \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_cart_quantity_2",
+        "uid" : "26abbe7a2ab0371a",
+        "parentUid" : "7668a5d696ecfebc5e192fb7cbff0dd3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079567121,
+          "stop" : 1615079567120,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7668a5d696ecfebc5e192fb7cbff0dd3"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_cart_quantity.py:94: AssumptionFailure\n>>\tpytest.assume(GetKeyword.get_keyword(result, \"message\") != \"操作成功\", \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_cart_quantity_3",
+        "uid" : "4d16da8cd28ef96c",
+        "parentUid" : "7e358a44738145fabaf52e84559f9078",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079568568,
+          "stop" : 1615079568567,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7e358a44738145fabaf52e84559f9078"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_member_address.py:33: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_member_address_1",
+        "uid" : "d7b4326d9978c3ac",
+        "parentUid" : "3eadb11214fbb007866f47ca9c62caac",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079570005,
+          "stop" : 1615079570004,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3eadb11214fbb007866f47ca9c62caac"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_member_address.py:77: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_member_address_3",
+        "uid" : "e2c694fc277fc378",
+        "parentUid" : "e8287e1ede11b98113f1b550b0d0c7e1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079571970,
+          "stop" : 1615079571969,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e8287e1ede11b98113f1b550b0d0c7e1"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_member_address.py:145: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_member_address_5",
+        "uid" : "b2b3f281267c8816",
+        "parentUid" : "dd23b15e10b00a32b48e9cff2b750aa9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079575402,
+          "stop" : 1615079575402,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd23b15e10b00a32b48e9cff2b750aa9"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_member_address.py:177: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_member_address_6",
+        "uid" : "3130310cb6fdc9fc",
+        "parentUid" : "4b5e5abdb944b35db221ae37b5e6e844",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079576961,
+          "stop" : 1615079576960,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4b5e5abdb944b35db221ae37b5e6e844"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_member_address.py:209: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_member_address_7",
+        "uid" : "1239af4f2ed51353",
+        "parentUid" : "813c89eb615e8ce6d386960322a2b6f3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079578580,
+          "stop" : 1615079578579,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "813c89eb615e8ce6d386960322a2b6f3"
+    }, {
+      "name" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_member_address.py:241: AssumptionFailure\n>>\tpytest.assume(result[\"body\"][\"code\"] != 200, \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+      "children" : [ {
+        "name" : "test_update_member_address_8",
+        "uid" : "d30ba4b7296ea6cc",
+        "parentUid" : "d51678b36c46c1f26d3576bb576e2ed9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1615079580153,
+          "stop" : 1615079580152,
+          "duration" : -1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d51678b36c46c1f26d3576bb576e2ed9"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

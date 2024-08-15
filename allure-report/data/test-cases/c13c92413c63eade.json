@@ -1,0 +1,61 @@
+{
+  "uid" : "c13c92413c63eade",
+  "name" : "test_update_cart_quantity_1",
+  "fullName" : "case.test_update_cart_quantity#test_update_cart_quantity_1",
+  "historyId" : "2d2c573a1a28f07ae90486e4247a6fa8",
+  "time" : {
+    "start" : 1615079565599,
+    "stop" : 1615079565598,
+    "duration" : -1
+  },
+  "description" : "\n    修改商品数量为负数\n    :return:\n    ",
+  "descriptionHtml" : "<pre><code>修改商品数量为负数\n:return:\n</code></pre>\n",
+  "status" : "failed",
+  "statusMessage" : "pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\ncase\\test_update_cart_quantity.py:32: AssumptionFailure\n>>\tpytest.assume(GetKeyword.get_keyword(result, \"message\") != \"操作成功\", \"断言开发自检字段\")\nAssertionError: 断言开发自检字段\nassert False",
+  "statusTrace" : "tp = <class 'pytest_assume.plugin.FailedAssumption'>, value = None, tb = None\n\n    def reraise(tp, value, tb=None):\n        try:\n            if value is None:\n                value = tp()\n            if value.__traceback__ is not tb:\n>               raise value.with_traceback(tb)\nE               pytest_assume.plugin.FailedAssumption: \nE               1 Failed Assumptions:\nE               \nE               case\\test_update_cart_quantity.py:32: AssumptionFailure\nE               >>\tpytest.assume(GetKeyword.get_keyword(result, \"message\") != \"操作成功\", \"断言开发自检字段\")\nE               AssertionError: 断言开发自检字段\nE               assert False\n\nd:\\python\\lib\\site-packages\\six.py:702: FailedAssumption",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_update_cart_quantity"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BE07TO9"
+  }, {
+    "name" : "thread",
+    "value" : "9988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_update_cart_quantity"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c13c92413c63eade.json",
+  "parameterValues" : [ ]
+}
